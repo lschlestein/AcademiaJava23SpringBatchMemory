@@ -1,0 +1,6 @@
+com\batch\springbatch\config\BatchConfig.class
+com\batch\springbatch\model\Pessoa.class
+com\batch\springbatch\controller\BatchController.class
+com\batch\springbatch\repository\PessoaRepository.class
+com\batch\springbatch\config\PessoaProcessor.class
+com\batch\springbatch\SpringBatchExampleApplication.class
